@@ -1,0 +1,41 @@
+# STANDUP 01 - 2/9/2023 TEAM BWH1_Spine
+
+
+General Update and Intro
+========================
+Team Members: Qudseen Sultana, Sruthi Chirumamilla, Kevin wu, Joseph Nguyen
+
+Selected Project Leaders: Joseph Nguyen and Qudseen Sultan
+
+Introduction: In this project we are asked to select 2 - 4 Game engines that best perform kinematic modeling of the lower back.  In the engine we have to Rig the model of the spine  in each engine to stimulate bending and twisting of the joint and compare the engines for simulation speed and realism.
+
+Talked to TA
+Voted to use Github Issues to keep track of Working Packages/Tasks..
+
+Created Github repo: https://github.com/yoseple/BWH1_SPINE-
+
+
+Draft of Requirements
+=====================
+MAIN: We are going to create software that can model how the spine will respond to force. 
+* Game Engines for the Spine - Unity, Real Engine, Physx by Nvidia, Bullet physics Engine, ODE, and Unigine
+
+* 3D modeling Software - Blender, Cinema4D, Lightwave3D, Spline 
+
+
+Current Questions / Problems / Something you need
+=================================================
+*Deciding which engines are the best for this project?
+
+*With movement in the spine do we want to highlight where the pain is and which nerve it is pinching? 
+
+
+
+List of Working Packages with responsible Student and Completion Dates
+======================================================================
+*Creating Model with Animation software  [All of the team] by 2/15/2022
+
+*Drafts of Logo  [Joseph, Qudseen] by 2/15/2022
+
+*Explore Game Engines and add it to Excel to narrow down to 2-4 main engines to use. 
+
